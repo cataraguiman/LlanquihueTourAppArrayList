@@ -1,0 +1,5 @@
+Torres del Paine;Magallanes;50000;true
+Desierto de Atacama;San Pedro de Atacama;65000;true
+Saltos del Petrohue;Puerto Varas;20000;false
+Termas de Conaripe;Panguipulli;55000;false
+Volcan Osorno;Puerto Varas;25000;true
